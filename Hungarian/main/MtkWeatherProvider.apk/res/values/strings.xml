@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="choose_city">Choose city</string>
+    <string name="searching">Searching, please wait.</string>
+    <string name="location_fail">Failed to find your location. System will try later.</string>
+    <string name="failed_to_locate">Failed to locate</string>
+    <string name="not_activated">Locate automatically</string>
+    <string name="activating">Locating position</string>
+    <string name="failed">Failed to locate the position</string>
+    <string name="name_or_zip">Enter name or zip code</string>
+    <string name="no_found">No found city match with %s. Please check your input words.</string>
+    <string name="net_error">Network is not available. Please check it.</string>
+    <string name="no_city_error">"Can't get the city information, Please set the system time and time zone correctly."</string>
+    <string name="searching_fail">Search city failed.</string>
+    <string name="no_weather_error">"Can't get the weather info, Please set the system time and time zone correctly."</string>
+    <string name="no_weather">Do not have weather for %s currently.</string>
+    <string name="weather_sunny">Sunny</string>
+    <string name="weather_cloudy">Cloudy</string>
+    <string name="weather_overcast">Overcast</string>
+    <string name="weather_shower">Shower</string>
+    <string name="weather_thunderyshower">ThunderyShower</string>
+    <string name="weather_thunderstorm_hail">thunderstorm_hail</string>
+    <string name="weather_sleet">sleet</string>
+    <string name="weather_drizzle">drizzle</string>
+    <string name="weather_rain">rain</string>
+    <string name="weather_downpour">downpour</string>
+    <string name="weather_storm">storm</string>
+    <string name="weather_snow_showers">snow_showers</string>
+    <string name="weather_flurries">flurries</string>
+    <string name="weather_snow">snow</string>
+    <string name="weather_heavy_snow">heavy_snow</string>
+    <string name="weather_blizzard">blizzard</string>
+    <string name="weather_fog">fog</string>
+    <string name="weather_freezing_rain">freezing_rain</string>
+    <string name="weather_sandstorm">sandstorm</string>
+    <string name="weather_dust">dust</string>
+    <string name="weather_sand">sand</string>
+    <string name="weather_hurricane">hurricane</string>
+    <string name="weather_tornado">tornado</string>
+    <string name="weather_hail">hail</string>
+    <string name="weather_windy">windy</string>
+</resources>

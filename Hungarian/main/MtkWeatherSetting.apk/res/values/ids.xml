@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="manage_city_base_layout">false</item>
+    <item type="id" name="no_city">false</item>
+    <item type="id" name="icon">false</item>
+    <item type="id" name="city_name">false</item>
+    <item type="id" name="setting_base_layout">false</item>
+    <item type="id" name="layout_temp">false</item>
+    <item type="id" name="temp">false</item>
+    <item type="id" name="temp_type">false</item>
+    <item type="id" name="layout_citys">false</item>
+    <item type="id" name="cities">false</item>
+    <item type="id" name="city_names">false</item>
+    <item type="id" name="layout_update">false</item>
+    <item type="id" name="update">false</item>
+    <item type="id" name="update_fre">false</item>
+</resources>

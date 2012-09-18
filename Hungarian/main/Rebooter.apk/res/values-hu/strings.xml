@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Újraindító</string>
+    <string name="shutdown">Leállítás</string>
+    <string name="reboot">Újraindítás</string>
+    <string name="recovery">Visszaállító módba</string>
+    <string name="bootloader">Rendszertöltő módba</string>
+    <string name="airplane_on">Repülő mód be</string>
+    <string name="airplane_off">Repülő mód ki</string>
+    <string name="please_wait">Kérem várjon...</string>
+    <string name="warning">Hiba</string>
+    <string name="root">Root hozzáférést kell kapnom!</string>
+    <string name="close">Kilépés</string>
+    <string name="ok">OK</string>
+</resources>

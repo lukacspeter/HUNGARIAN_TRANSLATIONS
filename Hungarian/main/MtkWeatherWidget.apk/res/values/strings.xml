@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="setting_title">Setup</string>
+    <string name="temperature">Temperature units</string>
+    <string name="tem_celsius">Celsius</string>
+    <string name="tem_fahrenheit">Fahrenheit</string>
+    <string name="cities">Cities</string>
+    <string name="cities_title">Cities(hold to remove city)</string>
+    <string name="city_names">Beijing, Shanghai, London, ...</string>
+    <string name="display_city">Display current city weather</string>
+    <string name="update_fre">Update frequency</string>
+    <string name="every12">Every 12 hours</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Complete</string>
+    <string name="menu_add_city">Add city</string>
+    <string name="choose_city">Choose city</string>
+    <string name="add_city">Press menu key to add cities</string>
+    <string name="remove">Remove</string>
+    <string name="warn_title">Warning</string>
+    <string name="warn">At most 8 cities could be added.</string>
+    <string name="has_chosen">has been chosen.</string>
+    <string name="choose_city_warn">Please choose a city first.</string>
+    <string name="updating">Updating</string>
+    <string name="c">°C</string>
+    <string name="f">°F</string>
+    <string name="na">N/A</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="setting">Setting</string>
+    <string name="update_fail">Update fail. Please check your network settings.</string>
+    <string name="tem3">3~</string>
+    <string name="tem21">21°C</string>
+    <string name="tem42">42</string>
+    <string name="tem_range" formatted="false">%i~%i</string>
+    <string name="last_u">Last update %s</string>
+    <string name="more">More</string>
+    <string name="searching">Searching, please wait.</string>
+    <string name="searching_fail">fail to search city.</string>
+    <string name="no_found">No found city match with %s. Please check your input words.</string>
+    <string name="net_error">Network is not available. Please check it.</string>
+    <string name="location_fail">Failed to find your location. System will try later.</string>
+    <string name="failed_to_locate">Failed to locate</string>
+    <string name="not_activated">Locate automatically</string>
+    <string name="activating">Locating position</string>
+    <string name="failed">Failed to locate the position</string>
+    <string name="name_or_zip">Enter name or zip code</string>
+    <string name="no_city_set">"No city set. 
+Press to add cities."</string>
+    <string name="no_city_error">"Can't get the city info. Please set the system time and time zone correctly."</string>
+    <string name="no_weather_error">"Can't get the weather info. Please set the system time and time zone correctly."</string>
+    <string name="no_weather">Do not have weather for %s currently.</string>
+    <string name="add_setting">Tap setting to add cities</string>
+    <string name="no_city">No cities</string>
+</resources>

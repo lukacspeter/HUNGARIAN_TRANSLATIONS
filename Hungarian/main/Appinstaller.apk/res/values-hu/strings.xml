@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Telepítő</string>
+    <string name="exit">Kilépés</string>
+    <string name="defpath">/sdcard</string>
+    <string name="settings">Beállítások</string>
+    <string name="cancel">Mégsem</string>
+    <string name="unknown_apps_dlg_title">Telepítés blokkolva</string>
+    <string name="unknown_apps_dlg_text">Biztonsági okokból az eszköz úgy van beállítva, hogy ne telepíthesse azokat az alkalmazásokat, amik nem az Android Play Áruházból származnak.</string>
+    <string name="alertdialog_title">Adjon meg egy helyet az apk-k kereséséhez</string>
+    <string name="no_apk_found">Nem található APK a megadott helyen!</string>
+    <string name="scanning_init">"Keresés ...
+
+"</string>
+    <string name="handling_selected_package_init">"Kiválasztott csomaggal kapcsolatos műveletek:  
+"</string>
+    <string name="install_uninstall">Telepít/Eltávolít</string>
+    <string name="selectall">Mindet kijelöl</string>
+    <string name="unselect_all">Kijelölés megszűntetése</string>
+    <string name="refresh">Frissítés</string>
+    <string name="about">Névjegy</string>
+    <string name="no_select_apks">Nem választott ki egyetlen APK-t sem telepítéshez/eltávolításhoz</string>
+    <string name="scanning">"Keresés ...
+"</string>
+    <string name="handling_selected_package">"Kiválasztott csomag kezelése:  "</string>
+    <string name="about_appInstaller">AppTelepítő</string>
+    <string name="about_version">"
+ Verzió: "</string>
+    <string name="about_date">"
+ Dátum: "</string>
+    <string name="no_space">A telepítéshez nincs elegendő szabad lemezterület</string>
+</resources>

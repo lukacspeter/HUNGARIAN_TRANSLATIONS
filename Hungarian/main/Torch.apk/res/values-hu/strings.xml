@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zseblámpa</string>
+    <string name="about">Névjegy:</string>
+    <string name="about_btn">Az alkalmazásról</string>
+    <string name="about_title">Névjegy</string>
+    <string name="about_close">Bezár</string>
+    <string name="description">"Ez a program a fényképezőgép LED vakuját használja.
+"</string>
+    <string name="warning">"Figyelem: A LED hosszú idejű használata és bekapcsolása túlmelegedést okozhat.
+
+Teljes fényerővel és 'mindig bekapcsolva' beállítással fél óráig lett tesztelve, de megvan az esélye annak, hogy a LED sérülhet.
+"</string>
+    <string name="license">"Az eredeti kódot Ben Buxton készítette a Nexus One Zseblámpához, és a GPL, v3 alatt lett közzétéve.
+http://n1torch.googlecode.com/
+
+Köszönet David Prieto-nak az új felület design-ért.
+
+A CyanogenMod számára Steve Kondik módosította.
+
+"</string>
+    <string name="warning_label">Figyelem</string>
+    <string name="brightwarn">"Teljes fényerővel és 'mindig bekapcsolva' beállítással fél óráig lett tesztelve, de 45 perc után nagyon forróvá vált és vibrálni kezdett (átmenetileg). A túlmelegedés hosszú távú hatása bármi lehet!
+
+Ez még a nem támogatott Widget-ként.
+
+Kattintson az 'Elfogadom' lehetőségre, ha saját felelősségére használni szeretné."</string>
+    <string name="brightwarn_title">"Magas fényerejű 'Be' gomb!!!"</string>
+    <string name="brightwarn_negative">Nem, köszönöm</string>
+    <string name="brightwarn_accept">Elfogadom</string>
+    <string name="label_on">Be</string>
+    <string name="label_off">Ki</string>
+    <string name="label_high">Magas fényerő</string>
+    <string name="label_strobe">Villogás</string>
+    <string name="label_frequency">Gyakoriság: (csúsztassa a módosításhoz)</string>
+    <string name="widget_options">Általános beállítások</string>
+    <string name="setting_widget_bright">Világos widget</string>
+    <string name="setting_widget_strobe">Villogás</string>
+    <string name="setting_frequency_title">Villogás gyakorisága</string>
+    <string name="setting_frequency_summary">Villogó fény gyakorisága</string>
+    <string name="setting_frequency_dialog">Gyakoriság</string>
+    <string name="setting_frequency_hz">Hz</string>
+    <string name="setting_add_widget">Widget hozzáadása</string>
+    <string name="not_torch_title">Zseblámpát be</string>
+    <string name="not_torch_summary">Zseblámpa bekapcsolva</string>
+    <string name="widget_label">Zseblámpa</string>
+    <string name="bright_light">világos fény</string>
+</resources>

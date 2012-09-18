@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="choose_city_base_layout">false</item>
+    <item type="id" name="edit">false</item>
+    <item type="id" name="ok_btn">false</item>
+    <item type="id" name="searching">false</item>
+    <item type="id" name="list_view">false</item>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CellConnectionService</string>
+    <string name="button_ok">Ok</string>
+    <string name="button_cancel">Mégsem</string>
+    <string name="confirm_radio_title">SIM kikapcsolva</string>
+    <string name="confirm_radio_msg">%1$s jelenjeg ki van kapcsolva. Szeretné ezt a SIM kártyát bekapcsolni?</string>
+    <string name="confirm_radio_msg_single">Jelenleg a repülő mód aktív, szeretné kikapcsolni?</string>
+    <string name="confirm_pin_title">SIM zárolva</string>
+    <string name="confirm_pin_msg">A kiválasztott SIM kártya jelenleg zárolt. Először oldja fel.</string>
+    <string name="confrim_simmelock_title">SIM ME zárolva</string>
+    <string name="confirm_simmelock_msg">A kiválasztott SIM foglalat jelenleg zárolt. Először oldja fel.</string>
+    <string name="confirm_fdn_title">FDN engedélyezve</string>
+    <string name="confirm_fdn_msg">A fix hívószámok (FDN) használata engedélyezve.</string>
+    <string name="confirm_roaming_title">Roaming figyelmeztetés</string>
+    string name="confirm_roaming_msg">A használni kívánt SIM kártya jelenleg roaming módot használ. Nincs helyette használható honos SIM. Folytatni szeretné?</string>
+    <string name="confirm_roaming_withPrefer_msg">A használni kívánt SIM kártya jelenleg roaming módot használ. Szeretné helyette folytatni a honos SIM kártyával?</string>
+    <string name="confirm_roaming_lbutton">Folytatás</string>
+    <string name="confirm_roaming_rbutton">Mégsem</string>
+    <string name="confirm_roamingWithPrefer_lbutton">Helyi SIM</string>
+    <string name="confirm_roamingWithPrefer_rbutton">Roaming SIM</string>
+    <string name="confirm_radio_lbutton">Bekapcsol</string>
+    <string name="confirm_unlock_lbutton">Felold</string>
+    <string name="confirm_disable_lbutton">Kikapcsolva</string>
+    <string name="confirm_unlock_fail">Művelet megszakítva</string>
+    <string name="confirm_turnon_radio_fail">Művelet megszakítva</string>
+    <string name="confirm_permit_roaming_fail">Megszakítja a műveletet a roaming SIM kártyáján</string>
+    <string name="confirm_sim_locked_message">A SIM kártya tartósan zárolva lett</string>
+    <string name="confirm_slot_locked_message">A SIM foglalat tartósan zárolva lett</string>
+</resources>

@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gemini_sim_info_number_display_format_entries">
+        <item>Első 4 számjegy</item>
+        <item>Utolsó 4 számjegy</item>
+        <item>Nincs megjelenítés</item>
+    </string-array>
+    <string-array name="gemini_sim_roaming_reminder_entries">
+        <item>Egyszer</item>
+        <item>Mindig</item>
+        <item>Soha</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (auto mód)</item>
+        <item>Csak WCDMA</item>
+        <item>Csak GSM</item>
+    </string-array>
+    <string-array name="timezone_filters">
+        <item>Amerika</item>
+        <item>Európa</item>
+        <item>Afrika</item>
+        <item>Ázsia</item>
+        <item>Ausztrália</item>
+        <item>Csendes-óceáni térség</item>
+        <item>Összes</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 másodperc</item>
+        <item>30 másodperc</item>
+        <item>1 perc</item>
+        <item>2 perc</item>
+        <item>5 perc</item>
+        <item>10 perc</item>
+        <item>30 perc</item>
+    </string-array>
+    <string-array name="dream_timeout_entries">
+        <item>Soha</item>
+        <item>15 másodperc</item>
+        <item>30 másodperc</item>
+        <item>1 perc</item>
+        <item>2 perc</item>
+        <item>5 perc</item>
+        <item>10 perc</item>
+        <item>30 perc</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>Azonnal</item>
+        <item>5 másodperc</item>
+        <item>15 másodperc</item>
+        <item>30 másodperc</item>
+        <item>1 perc</item>
+        <item>2 perc</item>
+        <item>5 perc</item>
+        <item>10 perc</item>
+        <item>30 perc</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>Kicsi</item>
+        <item>Normál</item>
+        <item>Nagy</item>
+        <item>Extra nagy</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Nagyon lassú</item>
+        <item>Lassú</item>
+        <item>Normál</item>
+        <item>Gyors</item>
+        <item>Nagyon gyors</item>
+    </string-array>
+    <string-array name="tts_pitch_entries">
+        <item>Nagyon alacsony</item>
+        <item>Alacsony</item>
+        <item>Normál</item>
+        <item>Magas</item>
+        <item>Nagyon magas</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Keresés…</item>
+        <item>Csatlakozás…</item>
+        <item>Hitelesítés…</item>
+        <item>IP-cím lekérése…</item>
+        <item>Csatlakoztatva</item>
+        <item>Felfüggesztve</item>
+        <item>Kapcsolat bontása…</item>
+        <item>Leválasztva</item>
+        <item>Sikertelen</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Keresés…</item>
+        <item>Csatlakozás ehhez %1$s…</item>
+        <item>%1$s hitelesítése…</item>
+        <item>IP-cím lekérése innen %1$s…</item>
+        <item>Csatlakozva ehhez: %1$s</item>
+        <item>Felfüggesztve</item>
+        <item>Kapcsolat bontása ezzel: %1$s…</item>
+        <item>Leválasztva</item>
+        <item>Sikertelen</item>
+    </string-array>
+    <string-array name="wifi_security">
+        <item>Megnyitás</item>
+        <item>WAPI-tanúsítvány</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+        <item>WAPI PSK</item>
+        <item>WAPI Certificate</item>
+    </string-array>
+    <string-array name="wifi_security_wfa">
+        <item>Megnyitás</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="wpa_security">
+        <item>Megnyitás</item>
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="wpa_security_wfa">
+        <item>Megnyitás</item>
+        <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="wapi_security">
+        <item>Megnyitás</item>
+        <item>WAPI-tanúsítvány</item>
+        <item>WAPI tanúsítvány</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+    </string-array>
+    <string-array name="wifi_p2p_wps_setup">
+        <item>Nyomógomb</item>
+        <item>PIN egyenrangú eszköztől</item>
+        <item>PIN ettől az eszköztől</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>Csatlakoztatva</item>
+        <item>Meghívott</item>
+        <item>Sikertelen</item>
+        <item>Elérhető</item>
+        <item>Tartományon kívül</item>
+    </string-array>
+    <string-array name="bluetooth_visibility_timeout_entries">
+        <item>2 perc</item>
+        <item>5 perc</item>
+        <item>1 óra</item>
+        <item>Nincs időtúllépés</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Gyenge</item>
+        <item>Közepes</item>
+        <item>Jó</item>
+        <item>Kiváló</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>Mindig</item>
+        <item>Csak csatlakoztatott állapotban</item>
+        <item>Soha (növeli az adathasználatot)</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>Mindig</item>
+        <item>Csak csatlakoztatott állapotban</item>
+        <item>Soha</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>Auto.</item>
+        <item>Csak 5 GHz</item>
+        <item>Csak 2,4 GHz</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Használati idő</item>
+        <item>Indítások száma</item>
+        <item>Alk. neve</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>SIM</item>
+        <item></item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Semelyik</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_network_setup">
+        <item>ki</item>
+        <item>Nyomógomb</item>
+        <item>PIN hozzáférési ponttól</item>
+        <item>PIN ettől az eszköztől</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Statikus</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Semelyik</item>
+        <item>Kézi</item>
+    </string-array>
+    <string-array name="emergency_tone_entries">
+        <item>ki</item>
+        <item>Riasztás</item>
+        <item>Rezgés</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>Semelyik</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP vagy CHAP</item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>ipv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>LTE</item>
+        <item>eHRPD</item>
+        <item>Nincs megadva</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>Belső eszközmemória</item>
+        <item>Kivehető SD-kártya</item>
+        <item>A rendszer döntse el</item>
+    </string-array>
+    <string-array name="vibrate_entries">
+        <item>Mindig</item>
+        <item>Soha</item>
+        <item>Csak néma módban</item>
+        <item>Csak néma módtól eltérő módban</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_titles">
+        <item>Rövid</item>
+        <item>Közepes</item>
+        <item>Hosszú</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Nincs ellenőrzés</item>
+        <item>Csak DRM-tartalom ellenőrzése</item>
+        <item>Ellenőrzés minden alkalommal</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Soha nincs HDCP-ellenőrzés</item>
+        <item>HDCP-ellenőrzés csak DRM-tartalomhoz</item>
+        <item>Mindig van HDCP-ellenőrzés</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animáció ki</item>
+        <item>Animáció mértéke 0,5x</item>
+        <item>Animáció mértéke 1x</item>
+        <item>Animáció mértéke 1,5x</item>
+        <item>Animáció mértéke 2x</item>
+        <item>Animáció mértéke 5x</item>
+        <item>Animáció mértéke 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animáció ki</item>
+        <item>Animáció mértéke 0,5x</item>
+        <item>Animáció mértéke 1x</item>
+        <item>Animáció mértéke 1,5x</item>
+        <item>Animáció mértéke 2x</item>
+        <item>Animáció mértéke 5x</item>
+        <item>Animáció mértéke 10x</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Normál korlát</item>
+        <item>Nincs háttérfolyamat</item>
+        <item>Legfeljebb 1 folyamat</item>
+        <item>Legfeljebb 2 folyamat</item>
+        <item>Legfeljebb 3 folyamat</item>
+        <item>Legfeljebb 4 folyamat</item>
+    </string-array>
+    <string-array name="vpn_types_long">
+        <item>PPTP VPN</item>
+        <item>L2TP/IPSec VPN megosztott kulcsokkal</item>
+        <item>L2TP/IPSec VPN tanúsítványokkal</item>
+        <item>IPSec VPN megosztott kulcsokkal és Xauth hitelesítéssel</item>
+        <item>IPSec VPN tanúsítványokkal és Xauth hitelesítéssel</item>
+        <item>IPSec VPN tanúsítványokkal és hibrid hitelesítéssel</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>Leválasztva</item>
+        <item>Inicializálás…</item>
+        <item>Csatlakozás…</item>
+        <item>Csatlakoztatva</item>
+        <item>Időtúllépés</item>
+        <item>Sikertelen</item>
+    </string-array>
+    <string-array name="hdmi_video_resolution_entries">
+        <item>Auto.</item>
+        <item>720P</item>
+        <item>480P</item>
+    </string-array>
+    <string-array name="auto_time_entries">
+        <item>Hálózat által megadott időbeállítás használata</item>
+        <item>GPS által megadott időbeállítás használata</item>
+        <item>ki</item>
+    </string-array>
+    <string-array name="epo_profile_01">
+        <item>epo_server_01</item>
+        <item>MTK EPO</item>
+        <item>epo.mediatek.com</item>
+        <item></item>
+        <item>epo_alps</item>
+        <item>epo_alps</item>
+    </string-array>
+    <string-array name="epo_profile_02">
+        <item>epo_server_02</item>
+        <item>MTK EPO2</item>
+        <item>epo.mediatek.com</item>
+        <item></item>
+        <item>epo_alps</item>
+        <item>epo_alps</item>
+    </string-array>
+    <string-array name="epo_update_period_title">
+        <item>10 perc</item>
+        <item>1 óra</item>
+        <item>6 óra</item>
+        <item>1 nap</item>
+        <item>3 nap</item>
+        <item>7 nap</item>
+        <item>14 nap</item>
+        <item>30 nap</item>
+    </string-array>
+    <string-array name="agps_qop_acc_type_entries">
+        <item>K-érték</item>
+        <item>Méter</item>
+    </string-array>
+    <string-array name="agps_eng_si_mode_entries">
+        <item>SI-MA</item>
+        <item>SI-MB</item>
+        <item>ÖNÁLLÓ</item>
+    </string-array>
+    <string-array name="agps_eng_si_mode_entryvalues">
+        <item>MA</item>
+        <item>MB</item>
+        <item>ÖNÁLLÓ</item>
+    </string-array>
+    <string-array name="agps_eng_set_id_list_entry">
+        <item>IMSI</item>
+        <item>IPV4</item>
+    </string-array>
+    <string-array name="agps_eng_set_id_list_entryvalues">
+        <item>IMSI</item>
+        <item>ipv4</item>
+    </string-array>
+    <string-array name="molr_position_type_entrys">
+        <item>Csak UP</item>
+        <item>Csak CP</item>
+    </string-array>
+    <string-array name="molr_position_type_entryvalues">
+        <item>Csak UP</item>
+        <item>Csak CP</item>
+    </string-array>
+    <string-array name="supl_capability_entry">
+        <item>RRLP</item>
+        <item>RRC</item>
+        <item>RRLP+RRC</item>
+    </string-array>
+    <string-array name="supl_capability_entryvalues">
+        <item>RRLP</item>
+        <item>RRC</item>
+        <item>RRLP+RRC</item>
+    </string-array>
+    <string-array name="molor_type">
+        <item>Helyszín becslés</item>
+        <item>Segédadatok</item>
+    </string-array>
+    <string-array name="sim_prefer">
+        <item>SIM1 előnyben</item>
+        <item>SIM2 előnyben</item>
+    </string-array>
+    <string-array name="network_use_entry">
+        <item>Csak otthon</item>
+        <item>Helyi + Barangolás</item>
+    </string-array>
+    <string-array name="tvout_system_list">
+        <item>PAL</item>
+        <item>NTSC</item>
+    </string-array>
+    <string-array name="networklocation_bindservice_entries">
+        <item>Google</item>
+        <item>MediaTek</item>
+    </string-array>
+    <string-array name="networklocation_bindservice_entriesValues">
+        <item>com.google.android.location.NetworkLocationProvider</item>
+        <item>com.mediatek.android.location.NetworkLocationProvider</item>
+    </string-array>
+    <string-array name="geocoder_bindservice_entries">
+        <item>Google</item>
+        <item>MediaTek</item>
+    </string-array>
+    <string-array name="geocoder_bindservice_entriesValues">
+        <item>com.google.android.location.GeocodeProvider</item>
+        <item>com.mediatek.android.location.PrivateInnerGeocodeProvider</item>
+    </string-array>
+    <string-array name="networklocation_reportfrequency_entries">
+        <item>10 másodperc</item>
+        <item>20 másodperc</item>
+        <item>30 másodperc</item>
+        <item>60 másodperc</item>
+    </string-array>
+    <string-array name="notify_duration_list_entries">
+        <item>0 s</item>
+        <item>1 s</item>
+        <item>2 s</item>
+        <item>3 s</item>
+        <item>4 s</item>
+        <item>5 s</item>
+        <item>6 s</item>
+        <item>7 s</item>
+        <item>8 s</item>
+    </string-array>
+    <string-array name="verify_duration_list_entries">
+        <item>0 s</item>
+        <item>1 s</item>
+        <item>2 s</item>
+        <item>3 s</item>
+        <item>4 s</item>
+        <item>5 s</item>
+        <item>6 s</item>
+        <item>7 s</item>
+        <item>8 s</item>
+    </string-array>
+    <string-array name="wifi_connect_type_entries">
+        <item>Automatikus csatlakozás</item>
+        <item>Manuális csatlakozás</item>
+        <item>Rákérdezés mindig</item>
+    </string-array>
+    <string-array name="wifi_hotspot_disable_policy_entries">
+        <item>Mindig</item>
+        <item>Kikapcsolás 5 perc üresjárat után</item>
+        <item>Kikapcsolás 10 perc üresjárat után</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>A készülék bekapcsolása kevesebb mint 1 perc múlva történik meg.</item>
+        <item>A bekapcsolás %1$s múlva történik meg.</item>
+        <item>A bekapcsolás %2$s múlva történik meg.</item>
+        <item>A bekapcsolás %1$s és %2$s múlva történik meg.</item>
+        <item>A bekapcsolás %3$s múlva történik meg.</item>
+        <item>A bekapcsolás %1$s és %3$s múlva történik meg.</item>
+        <item>A bekapcsolás %2$s és %3$s múlva történik meg.</item>
+        <item>A bekapcsolás %1$s, %2$s és %3$s múlva történik meg.</item>
+        <item>A készülék kikapcsolása kevesebb mint 1 perc múlva történik meg.</item>
+        <item>A kikapcsolás %1$s múlva történik meg.</item>
+        <item>A kikapcsolás %2$s múlva történik meg.</item>
+        <item>A kikapcsolás %1$s és %2$s múlva történik meg.</item>
+        <item>A kikapcsolás %3$s múlva történik meg.</item>
+        <item>A kikapcsolás %1$s és %3$s múlva történik meg.</item>
+        <item>A kikapcsolás %2$s és %3$s múlva történik meg.</item>
+        <item>A kikapcsolás %1$s, %2$s és %3$s múlva történik meg.</item>
+    </string-array>
+</resources>
